@@ -5,10 +5,10 @@ import matplotlib.pyplot as plt
 G = nx.DiGraph()
 
 # -----------------------------
-# NODOS
+# NODOS - **********VOY A AGREGAR A DOS USUARIOS **************
 # -----------------------------
 
-usuarios = ["Ana", "Luis", "Carlos"]
+usuarios = ["Ana", "Luis", "Carlos", "Ilka", "Ronald"]
 peliculas = ["Matrix", "Inception", "Interstellar"]
 generos = ["SciFi", "Accion", "Drama"]
 actores = ["Keanu Reeves", "Leonardo DiCaprio", "Matthew McConaughey"]
