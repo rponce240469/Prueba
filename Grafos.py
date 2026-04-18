@@ -114,3 +114,5 @@ nx.draw_networkx_edge_labels(
 
 plt.title("Grafo de Conocimiento - Plataforma Streaming", fontsize=14)
 plt.show()
+
+print("Nombre: irving Díaz ")
