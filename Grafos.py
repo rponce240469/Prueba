@@ -1,6 +1,8 @@
 import networkx as nx
 import matplotlib.pyplot as plt
 
+#Nombre: Javier Diaz (Estoy haciendo mi comentario)
+
 # Crear grafo dirigido
 G = nx.DiGraph()
 
