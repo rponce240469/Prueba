@@ -6,6 +6,7 @@ G = nx.DiGraph()
 
 # -----------------------------
 # NODOS ----"nuevamente ---"
+#Nombre: Juan Perez
 # -----------------------------
 
 usuarios = ["Ana", "Luis", "Carlos"]
