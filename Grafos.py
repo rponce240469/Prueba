@@ -1,3 +1,4 @@
+#Mensaje de Gabriel Dominguez
 import networkx as nx
 import matplotlib.pyplot as plt
 
