@@ -15,6 +15,8 @@ actores = ["Keanu Reeves", "Leonardo DiCaprio", "Matthew McConaughey"]
 directores = ["Wachowski", "Christopher Nolan"]
 directores = ["ffffffffff", "gggggggggg ronald"]
 
+#Nombre: Gabriel Weigandt
+
 # Agregar nodos con tipo
 for u in usuarios:
     G.add_node(u, tipo="usuario")
