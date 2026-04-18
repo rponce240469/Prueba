@@ -1,6 +1,8 @@
 import networkx as nx
 import matplotlib.pyplot as plt
 
+# Mi nombre es Tinuola Fagbemi y estoy trabajando sobre una rama
+
 # Crear grafo dirigido
 G = nx.DiGraph()
 
