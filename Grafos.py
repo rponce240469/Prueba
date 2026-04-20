@@ -4,6 +4,8 @@ import matplotlib.pyplot as plt
 # Crear grafo dirigido
 G = nx.DiGraph()
 
+#Nombre: Andrea Chaw 
+
 # -----------------------------
 # NODOS ----"nuevamente ---"
 # -----------------------------
