@@ -44,8 +44,8 @@ directores_originales = [
 
 # Directores adicionales que estaban en tu código
 directores_adicionales = [
-    "ffffffffff",
-    "gggggggggg ronald"
+    "--Mell Gipson--",
+    "--Ponce Ronald--"
 ]
 
 # Unificamos todos los directores
