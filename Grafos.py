@@ -15,7 +15,7 @@ G = nx.DiGraph()
 usuarios = [
     "Ana",
     "Luis",
-    "Carlos"
+    "Gustavo González"
 ]
 
 peliculas = [
@@ -108,7 +108,7 @@ G.add_edge(
 )
 
 G.add_edge(
-    "Carlos",
+    "Gustavo González",
     "Interstellar",
     relacion="ve"
 )
@@ -131,7 +131,7 @@ G.add_edge(
 )
 
 G.add_edge(
-    "Carlos",
+    "Gustavo González",
     "Drama",
     relacion="prefiere"
 )
