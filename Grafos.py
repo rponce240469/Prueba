@@ -13,7 +13,7 @@ G = nx.DiGraph()
 # ============================================================
 
 usuarios = [
-    "Ana",
+    "Zury",
     "Luis",
     "Carlos"
 ]
@@ -96,7 +96,7 @@ for d in directores:
 # ------------------------------------------------------------
 
 G.add_edge(
-    "Ana",
+    "Zury",
     "Matrix",
     relacion="ve"
 )
@@ -119,7 +119,7 @@ G.add_edge(
 # ------------------------------------------------------------
 
 G.add_edge(
-    "Ana",
+    "Zury",
     "SciFi",
     relacion="prefiere"
 )
@@ -231,7 +231,7 @@ G.add_edge(
 # ------------------------------------------------------------
 
 G.add_edge(
-    "Ana",
+    "Zury",
     "Interstellar",
     relacion="recomendado"
 )
