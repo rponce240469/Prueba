@@ -1,7 +1,7 @@
 import networkx as nx
 import matplotlib.pyplot as plt
 
-#Nombre: Luis
+# Nombre: Luis
 
 # ============================================================
 # CREAR GRAFO DIRIGIDO
